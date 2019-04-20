@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "466002492409",
+    "firebase_url": "https://tpdmu3proyecto1-fd062.firebaseio.com",
+    "project_id": "tpdmu3proyecto1-fd062",
+    "storage_bucket": "tpdmu3proyecto1-fd062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466002492409:android:686d1737c2907bcc",
+        "android_client_info": {
+          "package_name": "ittepic.com.mx.tpdm_u3_ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9i44pv2-426_iCb15bdTY7xVrSXGoBo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466002492409:android:5051c8f03c0da453",
+        "android_client_info": {
+          "package_name": "ittepic.com.mx.tpdm_u3_ejercicio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9i44pv2-426_iCb15bdTY7xVrSXGoBo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466002492409:android:86c3f189aa6cc454",
+        "android_client_info": {
+          "package_name": "ittepic.com.mx.tpdm_u3_practica1_oscar_ibaez_loreto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9i44pv2-426_iCb15bdTY7xVrSXGoBo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466002492409:android:4d7cea894ab77fc2",
+        "android_client_info": {
+          "package_name": "ittepic.com.mx.tpdm_u3_practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9i44pv2-426_iCb15bdTY7xVrSXGoBo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466002492409-auorr99hkq8a7p06idc51g19aut9tc74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
